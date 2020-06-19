@@ -1,0 +1,10 @@
+{
+  "name": "AMD",
+  "version": "1.0.0",
+  "description": "workspace repository for ADM: Adam crockett's Portfolio + Blog",
+  "main": "index.js",
+  "repository": "https://github.com/adam-cyclones/ADM.git",
+  "author": "mr.adam.crockett@gmail.com",
+  "license": "MIT",
+  "private": false
+}
