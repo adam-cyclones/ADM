@@ -1,3 +1,0 @@
-[submodule "packages/client"]
-	path = packages/client
-	url = https://github.com/adam-cyclones/ADM-client.git
