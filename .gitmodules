@@ -1,3 +1,6 @@
 [submodule "packages/ui"]
 	path = packages/ui
 	url = https://github.com/adam-cyclones/ADM-client.git
+[submodule "packages/server"]
+	path = packages/server
+	url = https://github.com/adam-cyclones/ADM-server.git
